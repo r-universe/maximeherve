@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GrapheR"]
+	path = GrapheR
+	url = https://github.com/cran/GrapheR
+	shallow = true
+	registered = true
+[submodule "RVAideMemoire"]
+	path = RVAideMemoire
+	url = https://github.com/cran/RVAideMemoire
+	shallow = true
+	registered = true
