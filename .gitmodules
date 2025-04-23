@@ -5,6 +5,3 @@
 [submodule "GrapheR"]
 	path = GrapheR
 	url = https://github.com/cran/GrapheR
-[submodule "RVAideMemoire"]
-	path = RVAideMemoire
-	url = https://github.com/cran/RVAideMemoire
